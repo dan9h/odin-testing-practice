@@ -6,4 +6,4 @@ The Odin Project > JavaScript > Project: Testing Practice
 - [x] `reverseString`
 - [x] `calculator`
 - [ ] `caesarCipher`
-- [ ] `analyzeArray`
+- [x] `analyzeArray`
